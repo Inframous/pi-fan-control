@@ -67,8 +67,9 @@ Run the uninstallation script:
 
 ```bash
 sudo bash uninstall_fan_control.sh
-This script will:
 ```
+
+This script will:
 
 - Stop and disable the fan_control service.
 - Remove all installed files from /etc/fan_control.
